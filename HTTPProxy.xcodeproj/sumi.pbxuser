@@ -1,0 +1,250 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* HTTPProxyAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {710, 608}}";
+			sepNavSelRange = "{382, 11}";
+			sepNavVisRange = "{0, 542}";
+		};
+	};
+	1D3623250D0F684500981E51 /* HTTPProxyAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {710, 1130}}";
+			sepNavSelRange = "{673, 0}";
+			sepNavVisRange = "{826, 1196}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* HTTPProxy */ = {
+		activeExec = 0;
+		executables = (
+			A4C61B9D105FD6FA00C9A3C6 /* HTTPProxy */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* HTTPProxyViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {710, 585}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 238}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* HTTPProxyViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {710, 875}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{547, 918}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A4C61B9D105FD6FA00C9A3C6 /* HTTPProxy */;
+		activeSDKPreference = iphonesimulator3.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* HTTPProxy */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* HTTPProxy */,
+		);
+		breakpoints = (
+			A4C61BF1106083E700C9A3C6 /* HTTPProxyAppDelegate.m:63 */,
+		);
+		codeSenseManager = A4C61BAE105FD70B00C9A3C6 /* Code sense */;
+		executables = (
+			A4C61B9D105FD6FA00C9A3C6 /* HTTPProxy */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					532,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					492,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 274716410;
+			PBXWorkspaceStateSaveDate = 274716410;
+		};
+		perUserProjectItems = {
+			A4C61BF3106083E900C9A3C6 /* PBXTextBookmark */ = A4C61BF3106083E900C9A3C6 /* PBXTextBookmark */;
+			A4C61BF4106083E900C9A3C6 /* PBXTextBookmark */ = A4C61BF4106083E900C9A3C6 /* PBXTextBookmark */;
+			A4C61BF5106083E900C9A3C6 /* PBXTextBookmark */ = A4C61BF5106083E900C9A3C6 /* PBXTextBookmark */;
+			A4C61BF6106083E900C9A3C6 /* PBXTextBookmark */ = A4C61BF6106083E900C9A3C6 /* PBXTextBookmark */;
+			A4C61C03106084B900C9A3C6 /* PBXTextBookmark */ = A4C61C03106084B900C9A3C6 /* PBXTextBookmark */;
+			A4C61C07106085D800C9A3C6 /* PBXTextBookmark */ = A4C61C07106085D800C9A3C6 /* PBXTextBookmark */;
+		};
+		sourceControlManager = A4C61BAD105FD70B00C9A3C6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	A4C61B9D105FD6FA00C9A3C6 /* HTTPProxy */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = HTTPProxy;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	A4C61BAD105FD70B00C9A3C6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A4C61BAE105FD70B00C9A3C6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A4C61BB9105FD76000C9A3C6 /* GTMHTTPServer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {710, 1807}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3162, 1386}";
+		};
+	};
+	A4C61BBA105FD76000C9A3C6 /* GTMHTTPServer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {710, 7891}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2069, 1273}";
+		};
+	};
+	A4C61BF1106083E700C9A3C6 /* HTTPProxyAppDelegate.m:63 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* HTTPProxyAppDelegate.m */;
+		functionName = "-httpServer:handleRequest:";
+		hitCount = 19;
+		ignoreCount = 0;
+		lineNumber = 63;
+		location = HTTPProxy;
+		modificationTime = 274761173.342457;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	A4C61BF3106083E900C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A4C61BBA105FD76000C9A3C6 /* GTMHTTPServer.m */;
+		name = "GTMHTTPServer.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1727;
+		vrLoc = 0;
+	};
+	A4C61BF4106083E900C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* HTTPProxyAppDelegate.h */;
+		name = "HTTPProxyAppDelegate.h: 18";
+		rLen = 11;
+		rLoc = 382;
+		rType = 0;
+		vrLen = 542;
+		vrLoc = 0;
+	};
+	A4C61BF5106083E900C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* HTTPProxyAppDelegate.m */;
+		name = "HTTPProxyAppDelegate.m: 69";
+		rLen = 0;
+		rLoc = 1787;
+		rType = 0;
+		vrLen = 1234;
+		vrLoc = 725;
+	};
+	A4C61BF6106083E900C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* HTTPProxyAppDelegate.m */;
+		name = "HTTPProxyAppDelegate.m: 69";
+		rLen = 0;
+		rLoc = 1787;
+		rType = 0;
+		vrLen = 1234;
+		vrLoc = 725;
+	};
+	A4C61C03106084B900C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* HTTPProxyAppDelegate.m */;
+		name = "HTTPProxyAppDelegate.m: 73";
+		rLen = 0;
+		rLoc = 1950;
+		rType = 0;
+		vrLen = 1222;
+		vrLoc = 744;
+	};
+	A4C61C07106085D800C9A3C6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* HTTPProxyAppDelegate.m */;
+		name = "HTTPProxyAppDelegate.m: 73";
+		rLen = 0;
+		rLoc = 1950;
+		rType = 0;
+		vrLen = 1222;
+		vrLoc = 744;
+	};
+}

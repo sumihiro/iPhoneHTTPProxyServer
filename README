@@ -1,0 +1,10 @@
+iPhoneアプリとしてHTTPプロキシサーバを作るデモ。
+
+GTMHTTPServerを使用しています。
+SSLには対応していません。
+
+Viewは何も表示しないので、AppDelegateのソースとデバッグコンソールを参照してください。
+
+by Sumihiro Ueda
+http://twitter.com/sumihiro
+
